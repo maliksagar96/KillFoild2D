@@ -1,0 +1,6 @@
+fov0
+__pycache__
+*.pyc
+*.npy
+*.tif
+
